@@ -118,16 +118,6 @@ pip install requests python-dotenv
 
 ---
 
-## 📌 Coming Soon (Ideas)
-
-- ✅ Save reminders to a file
-- 🌐 Web UI using Streamlit
-- 🧠 Plug-and-play agent loader
-- 🗣️ Voice-based input + speech output
-- 📋 Agent history log
-
----
-
 ## 🙏 Credits
 
 Built with 💡 by Sukesh using OpenRouter + Python.
