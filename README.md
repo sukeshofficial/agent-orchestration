@@ -4,6 +4,10 @@
 This project is a lightweight agent orchestration system powered by **OpenRouter LLMs**. It automatically detects user intent (like weather, joke, or reminder) and routes the request to the appropriate smart agent — which then uses LLMs to generate intelligent responses.
 
 ---
+![image](https://github.com/user-attachments/assets/e1086d60-8b79-455d-9b90-9cbae2bbc668)
+![image](https://github.com/user-attachments/assets/e1086d60-8b79-455d-9b90-9cbae2bbc668)
+
+---
 
 ## 🚀 Features
 
