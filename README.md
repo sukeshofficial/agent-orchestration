@@ -5,7 +5,6 @@ This project is a lightweight agent orchestration system powered by **OpenRouter
 
 ---
 ![image](https://github.com/user-attachments/assets/e1086d60-8b79-455d-9b90-9cbae2bbc668)
-![image](https://github.com/user-attachments/assets/e1086d60-8b79-455d-9b90-9cbae2bbc668)
 
 ---
 
