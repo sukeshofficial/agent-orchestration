@@ -123,7 +123,7 @@ pip install requests python-dotenv
 
 ## 🙏 Credits
 
-Built with 💡 by Sukesh using OpenRouter + Python.
+Built by Sukesh using OpenRouter + Python.
 
 ---
 
